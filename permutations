@@ -34,3 +34,16 @@ ch[j]=temp;
 
 
 }
+
+
+
+
+//OUTPUT
+
+
+abc
+acb
+bac
+bca
+cab
+cba
